@@ -45,6 +45,25 @@
       "created": "2026-11-11 06:23:01",
       "sig": "6286026624d81220329dba34e02a0fc4f5b760492f323a1963f631c281fee28f",
       "discord_id": "1306130591279878184"
+    },
+    {
+      "note": "dkicc (988341631700856862)",
+      "key": "GAY",
+      "type": "30D",
+      "expiry": 1796964140,
+      "ip": "",
+      "created": "2026-11-11 11:42:20",
+      "sig": "8bfa82a7f8b1d3be065a0010510e3a182ef4e40fae0f1ef6474b39de2da72d5c",
+      "discord_id": "988341631700856862"
+    },
+    {
+      "note": "hmq6",
+      "key": "AMITY-LNTE-89K2-NPKG-ETL4",
+      "type": "LIFETIME",
+      "expiry": -1,
+      "ip": "",
+      "created": "2026-11-11 16:58:23",
+      "sig": "15c20511e0bec6797a836bd79a654a6f4689e28ceb13f3848f85d643bc662612"
     }
   ]
 }
