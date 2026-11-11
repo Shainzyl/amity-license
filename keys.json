@@ -55,6 +55,15 @@
       "created": "2026-11-11 11:42:20",
       "sig": "8bfa82a7f8b1d3be065a0010510e3a182ef4e40fae0f1ef6474b39de2da72d5c",
       "discord_id": "988341631700856862"
+    },
+    {
+      "note": "d",
+      "key": "AMITY-F3X6-N8MP-7DLG-RZY8",
+      "type": "30D",
+      "expiry": 1796985054,
+      "ip": "",
+      "created": "2026-11-11 17:30:54",
+      "sig": "3e018d94f630ceef6ca741aeb536976d1be4149a2e4e411de999bcdd0f45bce4"
     }
   ]
 }
