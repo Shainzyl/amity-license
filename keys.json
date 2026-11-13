@@ -78,13 +78,14 @@
       "discord_id": "1469643587825438834"
     },
     {
-      "note": "hmq6",
+      "note": "hmq6 (1306130591279878184)",
       "key": "AMITY-TKW5-YBAR-U9EY-WKSH",
       "type": "30D",
       "expiry": 1797166923,
       "ip": "",
       "created": "2026-11-13 20:02:03",
-      "sig": "686da17a82ea544a00af170279946af423bdc5f36a925f0e6efa83b1051d2593"
+      "sig": "686da17a82ea544a00af170279946af423bdc5f36a925f0e6efa83b1051d2593",
+      "discord_id": "1306130591279878184"
     }
   ]
 }
