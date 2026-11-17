@@ -1,13 +1,1 @@
-{
-    "keys":  [
-                 {
-                     "note":  "l1fEtIMe",
-                     "key":  "AMITY-7EQV-VGLP-DFRZ-G2WX",
-                     "type":  "LIFETIME",
-                     "expiry":  -1,
-                     "ip":  "",
-                     "created":  "2026-11-17 18:39:03",
-                     "sig":  "98b5b1b7a9f115c41eef6f0092fe5f54779998921a62b61d80de77558d7e2753"
-                 }
-             ]
-}
+{"keys":[{"note":"l1fEtIMe","key":"AMITY-7EQV-VGLP-DFRZ-G2WX","type":"LIFETIME","expiry":-1,"ip":"116.106.7.59","created":"2026-11-17 18:39:03","sig":"98b5b1b7a9f115c41eef6f0092fe5f54779998921a62b61d80de77558d7e2753","hwid":"818b008ced2eda3c4a51d4fa631ae4dafc4cda0160b0889d34d5ef4d576fb78e"}]}
