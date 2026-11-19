@@ -126,6 +126,15 @@
       "created": "2026-11-17 18:34:25",
       "sig": "c69588fe690770a90e83c2a597945212b5519c3f188de2e52d228f2be7a64423",
       "hwid": "818b008ced2eda3c4a51d4fa631ae4dafc4cda0160b0889d34d5ef4d576fb78e"
+    },
+    {
+      "note": "tester",
+      "key": "AMITY-W4L3-N9Y4-94SF-W7HZ",
+      "type": "30D",
+      "expiry": 1803654719,
+      "ip": "",
+      "created": "2026-11-19 22:11:59",
+      "sig": "51348ff93b7672aca766a12644a7572c39c3d66ecf964f26695bb0d8f5f0dc56"
     }
   ]
 }
